@@ -1,0 +1,11 @@
+--2021-02-15 15:18:44--  https://static01.nyt.com/images/2021/02/12/science/12VOYAGER1b/12VOYAGER1b-threeByTwoSmallAt2X.jpg?quality=75
+Resolving static01.nyt.com (static01.nyt.com)... 199.232.81.164
+Connecting to static01.nyt.com (static01.nyt.com)|199.232.81.164|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36023 (35K) [image/jpeg]
+Saving to: ‘12VOYAGER1b-threeByTwoSmallAt2X.jpg?quality=75’
+
+          12VOYAGER   0%[                    ]       0  --.-KB/s               12VOYAGER1b-threeBy 100%[===================>]  35.18K  --.-KB/s    in 0.06s   
+
+2021-02-15 15:18:44 (635 KB/s) - ‘12VOYAGER1b-threeByTwoSmallAt2X.jpg?quality=75’ saved [36023/36023]
+
