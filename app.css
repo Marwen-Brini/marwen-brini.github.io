@@ -1,3 +1,14 @@
+@font-face {
+  font-family: "new-font";
+  src: url('./fonts/Cheltenham.woff2');
+  font-weight: 700 !important;
+  color: rgb(18, 18, 18) !important;
+}
+
+html * {
+  font-family: "new-font", georgia, "times new roman", times, serif;
+}
+
 .hr {
   border-bottom: 1px solid rgb(204, 204, 204);
   width: 72px;
@@ -68,7 +79,7 @@
 }
 
 .navy {
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid #ccc;
   background-color: white;
 }
 
@@ -113,4 +124,9 @@
 
 img.borderless {
   border: none;
+}
+
+h1 {
+  font-family: "new-font", georgia, "times new roman", times, serif;
+  font-weight: 700 !important;
 }
